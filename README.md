@@ -2,6 +2,4 @@
 
 ## This is A demo
 
-First time using Git & Github
-
-__Test__ on *example* branch <Oded Hellman>
+Updates made on master on github before rebase
