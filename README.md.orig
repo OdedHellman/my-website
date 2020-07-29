@@ -1,0 +1,11 @@
+# my-website
+
+## This is A demo
+
+First time using Git & Github
+
+<<<<<<< HEAD
+__Test__ on *example* branch <Oded Hellman>
+=======
+*EDITING FROM LOCAL-EXAMPLE BRANCH*
+>>>>>>> Local-example
